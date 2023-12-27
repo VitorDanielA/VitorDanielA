@@ -1,6 +1,6 @@
 ### Olá 👋, Eu sou Vitor Daniel, Desenvolvedor Front-End React JS
 
-<div align="center">
+<div>
   <a href="https://github.com/VitorDanielA">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=VitorDanielA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <br>
